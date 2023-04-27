@@ -6,6 +6,6 @@ public class BreakTime {
     //you can watch a new action movie
 
 
-    // ot you can read a book
+    // or you can read a book
 
 }
