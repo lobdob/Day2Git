@@ -5,4 +5,6 @@ public class HomePage {
 
 
     //this is the menu navigation
+
+    //logo
 }
